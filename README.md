@@ -17,6 +17,10 @@ esp8266_project由VSCode中的PlatformIO插件创建。
 ![arduino_test](https://github.com/erdao8/arduino-esp8266-aes-encryption/blob/master/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C/arduino_test.PNG)
 
 #### Python的测试结果
+使用```pycryptodome```库。
+先解密后加密。
+![python_test](https://github.com/erdao8/arduino-esp8266-aes-encryption/blob/master/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C/python_test.PNG)
+![python_test](https://github.com/erdao8/arduino-esp8266-aes-encryption/blob/master/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C/python_test2.PNG)
 
 #### NodeJS的测试结果
 使用```crypto-js```库。
